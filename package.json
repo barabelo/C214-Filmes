@@ -1,0 +1,31 @@
+{
+  "name": "c214-filmes",
+  "version": "1.0.0",
+  "description": "Exercício sobre APIs REST.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barabelo/C214-Filmes.git"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Bruno Almeida Rabelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barabelo/C214-Filmes/issues"
+  },
+  "homepage": "https://github.com/barabelo/C214-Filmes#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "http-status-codes": "^2.2.0",
+    "moongose": "^1.0.0",
+    "uuid": "^9.0.0",
+    "validate.js": "^0.13.1"
+  }
+}
